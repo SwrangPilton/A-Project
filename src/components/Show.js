@@ -8,10 +8,13 @@ export default function Show() {
   console.log(name, video, genre, plot)
   return (
     <div className='padding'>
-      <iframe title='asd' className=" aspect-video hover:aspect-square" src={'https://youtu.be/kn6-c223DUU'}></iframe>
-      <h1 className='text-2xl'>{name}</h1>
-      <p>Plot : </p>
-      <p>{plot}</p>
+      <iframe title='asd' className="w-[800px] h-[500px] mx-auto mb-4" src={video}></iframe>
+      <h1 className='text-3xl font-bold mb-2'>{name}</h1>
+      <p className='text-xl mb-2'> <span className='font-semibold'>Plot :</span> {plot}</p>
+      <div className="flex flex-wrap space-x-2 mb-2">
+        <p className='text-xl font-semibold'>Genre : </p>
+        {genre.map((g, i) => <p className='text-xl' key={i}>{g}</p>)}
+      </div>
     </div>
   )
 }

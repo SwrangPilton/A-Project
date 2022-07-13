@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Night Crawler",
+    "video": "https://www.youtube.com/embed/U0lM0dSFCqw",
+    "genre": [
+      "Horror",
+      "Sci-fi",
+      "TV Series"
+    ],
+    "plot": "After the mysterious and sudden vanishing of a young boy, the people of a small town begin to uncover secrets of a government lab, portals to another world and sinister monsters"
+  },
+  {
+    "id": 2,
+    "name": "Django Unchained",
+    "video": "https://www.youtube.com/embed/9bSd5ZEiM7Y",
+    "genre": [
+      "Drama",
+      "Thriller",
+      "TV Series"
+    ],
+    "plot": "The cases of a detective whose physical age was chemically reversed to that of a prepubescent boy but must hide his true mental development. Shinichi Kudo, a seventeen year old master detective, had it all."
+  },
+  {
+    "id": 3,
+    "name": "12 Strong",
+    "video": "https://www.youtube.com/embed/dqhy50o15Cc",
+    "genre": [
+      "Horror",
+      "Sci-fi",
+      "TV Series"
+    ],
+    "plot": "Ek aisa game jismein koi rules nahi, koi haar nahi, koi jeet nahi. Jaadugar, streaming from 15th July, only on Netflix!"
+  },
+  {
+    "id": 4,
+    "name": "Dark Knight Rises",
+    "video": "https://www.youtube.com/embed/KyXWkoRlthY",
+    "genre": [
+      "Drama",
+      "Thriller",
+      "TV Series"
+    ],
+    "plot": "The cases of a detective whose physical age was chemically reversed to that of a prepubescent boy but must hide his true mental development. Shinichi Kudo, a seventeen year old master detective, had it all."
+  },
+  {
+    "id": 5,
+    "name": "42",
+    "video": "https://www.youtube.com/embed/ruwR9QvVD0Q",
+    "genre": [
+      "Horror",
+      "Sci-fi",
+      "TV Series"
+    ],
+    "plot": "After the mysterious and sudden vanishing of a young boy, the people of a small town begin to uncover secrets of a government lab, portals to another world and sinister monsters"
+  },
+  {
+    "id": 6,
+    "name": "Bourne Ultimatum",
+    "video": "https://www.youtube.com/embed/oKJGhnYp2-8",
+    "genre": [
+      "Drama",
+      "Thriller",
+      "TV Series"
+    ],
+    "plot": "The cases of a detective whose physical age was chemically reversed to that of a prepubescent boy but must hide his true mental development. Shinichi Kudo, a seventeen year old master detective, had it all."
+  },
+  {
+    "id": 7,
+    "name": "Spiderman No Way Home",
+    "video": "https://www.youtube.com/embed/UNow5oWracE&pp=sAQB",
+    "genre": [
+      "Horror",
+      "Sci-fi",
+      "TV Series"
+    ],
+    "plot": "Ek aisa game jismein koi rules nahi, koi haar nahi, koi jeet nahi. Jaadugar, streaming from 15th July, only on Netflix!"
+  },
+  {
+    "id": 8,
+    "name": "Lion King",
+    "video": "https://www.youtube.com/embed/FjuzyZ2O_4U&pp=sAQB",
+    "genre": [
+      "Drama",
+      "Thriller",
+      "TV Series"
+    ],
+    "plot": "The cases of a detective whose physical age was chemically reversed to that of a prepubescent boy but must hide his true mental development. Shinichi Kudo, a seventeen year old master detective, had it all."
+  },
+  {
+    "id": 9,
+    "name": "Jungle Cruises",
+    "video": "https://www.youtube.com/embed/IImvd3hcDmo&pp=sAQB",
+    "genre": [
+      "Horror",
+      "Sci-fi",
+      "TV Series"
+    ],
+    "plot": "After the mysterious and sudden vanishing of a young boy, the people of a small town begin to uncover secrets of a government lab, portals to another world and sinister monsters"
+  },
+  {
+    "id": 10,
+    "name": "Hunter Killer",
+    "video": "https://www.youtube.com/embed/JF0S0Cc5n1s&pp=sAQB",
+    "genre": [
+      "Drama",
+      "Thriller",
+      "TV Series"
+    ],
+    "plot": "The cases of a detective whose physical age was chemically reversed to that of a prepubescent boy but must hide his true mental development. Shinichi Kudo, a seventeen year old master detective, had it all."
+  }
+]

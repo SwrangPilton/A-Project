@@ -12,7 +12,7 @@ export function Card({ vid, title, itemId }) {
             style={{
                 display: "inline-block",
                 margin: "0 10px",
-                width: "300px",
+                width: "260px",
                 userSelect: "none"
             }}
             tabIndex={0}

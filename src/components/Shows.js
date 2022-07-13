@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useMemo, useState } from 'react'
 import { ScrollMenu, VisibilityContext } from "react-horizontal-scrolling-menu";
 import { onWheel } from '../utils/useOnWheel';
 import usePreventBodyScroll from '../utils/usePreventBodyScroll'
@@ -6,6 +6,7 @@ import { LeftArrow, RightArrow } from './Arrows';
 import { Card } from './Card';
 import trending from '../data/trending.json'
 import tvshows from '../data/tvshows.json'
+import movies from '../data/movies.json'
 
 export default function Shows({ name }) {
     const showType = name.replaceAll(' ', '').toLowerCase()
@@ -13,6 +14,7 @@ export default function Shows({ name }) {
     const elemPrefix = "test";
     const getId = (index) => `${elemPrefix}${index}`;
     const vid_idx = (index) => index;
+    console.log(Object.entries(movies))
     // console.log(links)
 
     // const shuffle = () => {
@@ -23,10 +25,13 @@ export default function Shows({ name }) {
     // }
     // shuffle()
     // console.log(shuffle())
-    const getItems = () =>
+    const getItems = useMemo(() =>
         Array(10)
             .fill(0)
-            .map((_, ind) => ({ id: getId(ind), vid: showType === 'trending' ? trending[vid_idx(ind)].video : tvshows[vid_idx(ind)].video }));
+            .map((_, ind) => ({
+                id: getId(ind),
+                vid: showType === 'trending' ? trending[vid_idx(ind)].video : ((showType === 'movies' ? (movies[vid_idx(ind)].video) : (tvshows[vid_idx(ind)].video)))
+            })), [])
 
     const [items] = useState(getItems);
     const { disableScroll, enableScroll } = usePreventBodyScroll();

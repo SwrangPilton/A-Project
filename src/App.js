@@ -13,6 +13,9 @@ function App() {
       <Suspense fallback={<div className='padding text-2xl'>Loading....</div>}>
         <Shows name='TV Shows' />
       </Suspense>
+      <Suspense fallback={<div className='padding text-2xl'>Loading....</div>}>
+        <Shows name='Movies' />
+      </Suspense>
     </Fragment>
   );
 }

@@ -8,9 +8,30 @@
     },
     {
         "id": 2,
-        "name": "Detective Conan",
-        "video": "https://www.youtube.com/embed/5DcWtjrYcFI",
-        "genre": ["Drama", "Thriller", "TV Series"],
-        "plot": "The cases of a detective whose physical age was chemically reversed to that of a prepubescent boy but must hide his true mental development. Shinichi Kudo, a seventeen year old master detective, had it all."
+        "name": "Love Death + Robots",
+        "video": "https://www.youtube.com/embed/wUFwunMKa4E",
+        "genre": ["Drama", "Fantasy", "Anthology"],
+        "plot": "Long after the fall of humanity, three robots (K-VRC, XBOT 4000, and 11-45-G) wander through a post-apocalyptic city, trying to understand how humans lived based on their limited knowledge of them and the things they left behind."
+    },
+    {
+        "id": 3,
+        "name": "Money Heist",
+        "video": "https://www.youtube.com/embed/_InqQJRqGW4",
+        "genre": ["Drama", "Thriller", "Crime Series"],
+        "plot": "A criminal mastermind who goes by 'The Professor' has a plan to pull off the biggest heist in recorded history -- to print billions of euros in the Royal Mint of Spain. To help him carry out the ambitious plan, he recruits eight people with certain abilities and who have nothing to lose. The group of thieves take hostages to aid in their negotiations with the authorities, who strategize to come up with a way to capture The Professor. As more time elapses, the robbers prepare for a showdown with the police."
+    },
+    {
+        "id": 4,
+        "name": "Vikings",
+        "video": "https://www.youtube.com/embed/Yi4YnwFT7Gk",
+        "genre": ["War", "Adventure", "Drama"],
+        "plot": "Ragnar as a farmer who rises to fame by successful raids into England, and eventually becomes a Scandinavian King, with the support of his family and fellow warriors"
+    },
+    {
+        "id": 1,
+        "name": "El Camino",
+        "video": "https://www.youtube.com/embed/1JLUn2DFW4w",
+        "genre": ["Crime", "Drama", "Thriller"],
+        "plot": "After a dramatic escape from captivity, Jesse Pinkman must deal with his past in order to make some kind of future for himself."
     }
 ]

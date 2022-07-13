@@ -8,12 +8,17 @@ body {
         sans-serif;
 }
 
+.body-fixed {
+    /* height: 100vh !important;
+    overflow-y: hidden !important; */
+}
+
 .p-x {
-    @apply px-8;
+    @apply px-5 lg:px-8;
 }
 
 .padding {
-    @apply px-5 lg:px-8 py-4;
+    @apply px-5 lg:px-8 py-2;
 }
 
 .my-grid {
@@ -28,6 +33,10 @@ body {
 
 .grid-btn-div {
     @apply absolute bg-gray-900/80 hover:bg-gray-800/80 h-full px-2 top-0 right-0 flex flex-wrap items-center
+}
+
+nav ul li a {
+    @apply hidden xl:inline-block
 }
 
 footer {
@@ -69,4 +78,12 @@ footer ul li a {
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
     background: #555;
+}
+
+
+.signin {
+    background-image: url('./assets/bg.jpg');
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover  ;
 }
