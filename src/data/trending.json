@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Stranger Things",
+    "video": "https://www.youtube.com/embed/sBEvEcpnG7k",
+    "genre": [
+      "Horror",
+      "Sci-fi",
+      "TV Series"
+    ],
+    "plot": "After the mysterious and sudden vanishing of a young boy, the people of a small town begin to uncover secrets of a government lab, portals to another world and sinister monsters"
+  },
+  {
+    "id": 2,
+    "name": "Detective Conan",
+    "video": "https://www.youtube.com/embed/5DcWtjrYcFI",
+    "genre": [
+      "Drama",
+      "Thriller",
+      "TV Series"
+    ],
+    "plot": "The cases of a detective whose physical age was chemically reversed to that of a prepubescent boy but must hide his true mental development. Shinichi Kudo, a seventeen year old master detective, had it all."
+  },
+  {
+    "id": 3,
+    "name": "Day Shift | Jamie Foxx, Dave Franco, and Snoop Dogg",
+    "video": "https://www.youtube.com/embed/cdyuHqIyNm8",
+    "genre": [
+      "Horror",
+      "Sci-fi",
+      "TV Series"
+    ],
+    "plot": "Ek aisa game jismein koi rules nahi, koi haar nahi, koi jeet nahi. Jaadugar, streaming from 15th July, only on Netflix!"
+  },
+  {
+    "id": 4,
+    "name": "The Gray Man",
+    "video": "https://www.youtube.com/embed/BmllggGO4pM",
+    "genre": [
+      "Drama",
+      "Thriller",
+      "TV Series"
+    ],
+    "plot": "The cases of a detective whose physical age was chemically reversed to that of a prepubescent boy but must hide his true mental development. Shinichi Kudo, a seventeen year old master detective, had it all."
+  },
+  {
+    "id": 5,
+    "name": "Tekken Bloodline",
+    "video": "https://www.youtube.com/embed/WTc2xXcJFwU",
+    "genre": [
+      "Horror",
+      "Sci-fi",
+      "TV Series"
+    ],
+    "plot": "After the mysterious and sudden vanishing of a young boy, the people of a small town begin to uncover secrets of a government lab, portals to another world and sinister monsters"
+  },
+  {
+    "id": 6,
+    "name": "The Beast",
+    "video": "https://www.youtube.com/embed/P-E-IGQCsPo",
+    "genre": [
+      "Drama",
+      "Thriller",
+      "TV Series"
+    ],
+    "plot": "The cases of a detective whose physical age was chemically reversed to that of a prepubescent boy but must hide his true mental development. Shinichi Kudo, a seventeen year old master detective, had it all."
+  },
+  {
+    "id": 7,
+    "name": "Kung Fu Panda: The Dragon Knight",
+    "video": "https://www.youtube.com/embed/gnprhsRHSZg",
+    "genre": [
+      "Horror",
+      "Sci-fi",
+      "TV Series"
+    ],
+    "plot": "Ek aisa game jismein koi rules nahi, koi haar nahi, koi jeet nahi. Jaadugar, streaming from 15th July, only on Netflix!"
+  },
+  {
+    "id": 8,
+    "name": "The Imperfects",
+    "video": "https://www.youtube.com/embed/aEs2ziTArdk",
+    "genre": [
+      "Drama",
+      "Thriller",
+      "TV Series"
+    ],
+    "plot": "The cases of a detective whose physical age was chemically reversed to that of a prepubescent boy but must hide his true mental development. Shinichi Kudo, a seventeen year old master detective, had it all."
+  },
+  {
+    "id": 9,
+    "name": "Guilty",
+    "video": "https://www.youtube.com/embed/6sQ85MrpOPI",
+    "genre": [
+      "Horror",
+      "Sci-fi",
+      "TV Series"
+    ],
+    "plot": "After the mysterious and sudden vanishing of a young boy, the people of a small town begin to uncover secrets of a government lab, portals to another world and sinister monsters"
+  },
+  {
+    "id": 10,
+    "name": "Cyberpunk",
+    "video": "https://www.youtube.com/embed/OifiVCnFKzM",
+    "genre": [
+      "Drama",
+      "Thriller",
+      "TV Series"
+    ],
+    "plot": "The cases of a detective whose physical age was chemically reversed to that of a prepubescent boy but must hide his true mental development. Shinichi Kudo, a seventeen year old master detective, had it all."
+  }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Jaadugar",
+        "video": "https://www.youtube.com/embed/i7yFiUio0u0",
+        "genre": [
+            "Horror",
+            "Sci-fi",
+            "TV Series"
+        ],
+        "plot": "After the mysterious and sudden vanishing of a young boy, the people of a small town begin to uncover secrets of a government lab, portals to another world and sinister monsters"
+    },
+    {
+        "id": 2,
+        "name": "Dark",
+        "video": "https://www.youtube.com/embed/0VEczNVW6tY",
+        "genre": [
+            "Drama",
+            "Thriller",
+            "TV Series"
+        ],
+        "plot": "The cases of a detective whose physical age was chemically reversed to that of a prepubescent boy but must hide his true mental development. Shinichi Kudo, a seventeen year old master detective, had it all."
+    },
+    {
+        "id": 3,
+        "name": "Our Planet",
+        "video": "https://www.youtube.com/embed/9FqwhW0B3tY",
+        "genre": [
+            "Horror",
+            "Sci-fi",
+            "TV Series"
+        ],
+        "plot": "Ek aisa game jismein koi rules nahi, koi haar nahi, koi jeet nahi. Jaadugar, streaming from 15th July, only on Netflix!"
+    },
+    {
+        "id": 4,
+        "name": "Brigton",
+        "video": "https://www.youtube.com/embed/gpv7ayf_tyE",
+        "genre": [
+            "Drama",
+            "Thriller",
+            "TV Series"
+        ],
+        "plot": "The cases of a detective whose physical age was chemically reversed to that of a prepubescent boy but must hide his true mental development. Shinichi Kudo, a seventeen year old master detective, had it all."
+    },
+    {
+        "id": 5,
+        "name": "One Piece Live Action",
+        "video": "https://www.youtube.com/embed/RFO_0Nbv9rQ",
+        "genre": [
+            "Horror",
+            "Sci-fi",
+            "TV Series"
+        ],
+        "plot": "After the mysterious and sudden vanishing of a young boy, the people of a small town begin to uncover secrets of a government lab, portals to another world and sinister monsters"
+    },
+    {
+        "id": 6,
+        "name": "The Beast",
+        "video": "https://www.youtube.com/embed/P-E-IGQCsPo",
+        "genre": [
+            "Drama",
+            "Thriller",
+            "TV Series"
+        ],
+        "plot": "The cases of a detective whose physical age was chemically reversed to that of a prepubescent boy but must hide his true mental development. Shinichi Kudo, a seventeen year old master detective, had it all."
+    },
+    {
+        "id": 7,
+        "name": "Kung Fu Panda: The Dragon Knight",
+        "video": "https://www.youtube.com/embed/gnprhsRHSZg",
+        "genre": [
+            "Horror",
+            "Sci-fi",
+            "TV Series"
+        ],
+        "plot": "Ek aisa game jismein koi rules nahi, koi haar nahi, koi jeet nahi. Jaadugar, streaming from 15th July, only on Netflix!"
+    },
+    {
+        "id": 8,
+        "name": "The Imperfects",
+        "video": "https://www.youtube.com/embed/aEs2ziTArdk",
+        "genre": [
+            "Drama",
+            "Thriller",
+            "TV Series"
+        ],
+        "plot": "The cases of a detective whose physical age was chemically reversed to that of a prepubescent boy but must hide his true mental development. Shinichi Kudo, a seventeen year old master detective, had it all."
+    },
+    {
+        "id": 9,
+        "name": "Guilty",
+        "video": "https://www.youtube.com/embed/6sQ85MrpOPI",
+        "genre": [
+            "Horror",
+            "Sci-fi",
+            "TV Series"
+        ],
+        "plot": "After the mysterious and sudden vanishing of a young boy, the people of a small town begin to uncover secrets of a government lab, portals to another world and sinister monsters"
+    },
+    {
+        "id": 10,
+        "name": "Cyberpunk",
+        "video": "https://www.youtube.com/embed/OifiVCnFKzM",
+        "genre": [
+            "Drama",
+            "Thriller",
+            "TV Series"
+        ],
+        "plot": "The cases of a detective whose physical age was chemically reversed to that of a prepubescent boy but must hide his true mental development. Shinichi Kudo, a seventeen year old master detective, had it all."
+    }
+]

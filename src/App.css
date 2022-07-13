@@ -1,0 +1,36 @@
+nav ul {
+  @apply flex flex-wrap flex-row space-x-4
+}
+nav li a {
+  @apply border-b-2 border-transparent hover:border-red-500 pb-1 duration-300 ease-in-out font-medium;
+}
+
+
+.wall {
+  @apply text-slate-200
+}
+
+
+.wall li {
+  @apply inline-block 
+}
+
+.wall li p {
+  @apply pr-3 text-slate-100 text-xl font-semibold
+}
+
+.wall button {
+  @apply relative py-2 pr-5 text-white text-lg rounded-md 
+}
+
+.wall .wall-next-btn {
+  @apply rounded-full border m-2 text-2xl cursor-pointer duration-300 hover:scale-110
+}
+
+.wall .wall-next-btn:hover svg {
+  @apply scale-110
+}
+
+ul li a {
+  @apply cursor-pointer pointer-events-auto
+}

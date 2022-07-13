@@ -1,0 +1,72 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+body {
+    font-family: 'Source Sans Pro',
+        sans-serif;
+}
+
+.p-x {
+    @apply px-8;
+}
+
+.padding {
+    @apply px-5 lg:px-8 py-4;
+}
+
+.my-grid {
+    display: grid;
+    grid-gap: 16px;
+    padding:0 16px 0px 0;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(200px, 1fr);
+    overflow-x: hidden;
+}
+
+.grid-btn-div {
+    @apply absolute bg-gray-900/80 hover:bg-gray-800/80 h-full px-2 top-0 right-0 flex flex-wrap items-center
+}
+
+footer {
+    @apply padding grid grid-cols-2 lg:grid-cols-4 gap-x-8 gap-y-6 lg:gap-y-0 mt-6
+}
+
+footer ul li a {
+    @apply text-lg hover:text-red-600 duration-300
+}
+
+.react-horizontal-scrolling-menu--scroll-container::-webkit-scrollbar {
+    display: none;
+}
+
+.react-horizontal-scrolling-menu--scroll-container {
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
+}
+
+
+::-webkit-scrollbar {
+    width: 5px;
+    height: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #ff8787;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: rgb(234, 20, 20);
+    border-radius: 10px !important;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}

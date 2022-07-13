@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Stranger Things",
+        "video": "https://www.youtube.com/embed/sBEvEcpnG7k",
+        "genre": ["Horror", "Sci-fi", "TV Series"],
+        "plot": "After the mysterious and sudden vanishing of a young boy, the people of a small town begin to uncover secrets of a government lab, portals to another world and sinister monsters"
+    },
+    {
+        "id": 2,
+        "name": "Detective Conan",
+        "video": "https://www.youtube.com/embed/5DcWtjrYcFI",
+        "genre": ["Drama", "Thriller", "TV Series"],
+        "plot": "The cases of a detective whose physical age was chemically reversed to that of a prepubescent boy but must hide his true mental development. Shinichi Kudo, a seventeen year old master detective, had it all."
+    }
+]
